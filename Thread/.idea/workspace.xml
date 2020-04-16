@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b9bd51e-5a27-4d4e-a165-5526c741c74e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZUGHGXXrfAqSrM9ugnBR0j5l2n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="9" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.通知指定的消息处理线程">
+    <configuration name="通知交替锁" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="通知交替锁" />
+      <module name="com.demo.thread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="消费者生产模式" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="消费者生产模式" />
+      <module name="com.demo.thread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="通知指定的消息处理线程" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="通知指定的消息处理线程" />
+      <module name="com.demo.thread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotifyAndWaitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NotifyAndWaitDemo" />
+      <module name="com.demo.thread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadYield" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadYield" />
+      <module name="com.demo.thread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.通知指定的消息处理线程" />
+        <item itemvalue="Application.消费者生产模式" />
+        <item itemvalue="Application.通知交替锁" />
+        <item itemvalue="Application.ThreadYield" />
+        <item itemvalue="Application.NotifyAndWaitDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b9bd51e-5a27-4d4e-a165-5526c741c74e" name="Default Changelist" comment="" />
+      <created>1584886169883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584886169883</updated>
+      <workItem from="1584886173483" duration="21517000" />
+      <workItem from="1584954898097" duration="1577000" />
+      <workItem from="1584982317821" duration="356000" />
+      <workItem from="1586238861338" duration="679000" />
+      <workItem from="1586268342007" duration="12293000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="94" key="#Project_Structure" timestamp="1584886657685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1584886657685" />
+    <state x="1201" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1586587478050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1201" y="161" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586587478050" />
+    <state x="1160" y="382" width="560" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584945067871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1160" y="382" width="560" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1584945067871" />
+    <state x="760" y="397" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1584893255165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="760" y="397" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1584893255165" />
+    <state x="869" y="302" key="#xdebugger.evaluate" timestamp="1584946362139">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="869" y="302" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1584946362139" />
+    <state x="690" y="216" key="FileChooserDialogImpl" timestamp="1584982513529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="216" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584982513529" />
+    <state width="1867" height="254" key="GridCell.Tab.0.bottom" timestamp="1587048921689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587048921689" />
+    <state width="1867" height="254" key="GridCell.Tab.0.center" timestamp="1587048921688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="254" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587048921688" />
+    <state width="1867" height="254" key="GridCell.Tab.0.left" timestamp="1587048921688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="254" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587048921688" />
+    <state width="1867" height="254" key="GridCell.Tab.0.right" timestamp="1587048921688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="254" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587048921688" />
+    <state width="1867" height="252" key="GridCell.Tab.1.bottom" timestamp="1587048921666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="252" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587048921666" />
+    <state width="1867" height="252" key="GridCell.Tab.1.center" timestamp="1587048921666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="252" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587048921666" />
+    <state width="1867" height="252" key="GridCell.Tab.1.left" timestamp="1587048921665">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="252" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587048921665" />
+    <state width="1867" height="252" key="GridCell.Tab.1.right" timestamp="1587048921666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="252" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587048921666" />
+    <state x="330" y="75" width="1562" height="889" key="SettingsEditor" timestamp="1584948726098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="330" y="75" width="1562" height="889" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584948726098" />
+    <state x="1093" y="202" width="675" height="655" key="StructurePopup" timestamp="1584944083411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1093" y="202" width="675" height="655" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1584944083411" />
+    <state x="1032" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1586268343180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586268343180" />
+    <state x="386" y="26" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586269402768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="386" y="26" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586269402768" />
+    <state x="161" y="30" key="new project wizard" timestamp="1584982670764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="161" y="30" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1584982670764" />
+    <state x="1019" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1584944591245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1019" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584944591245" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.demo.thread/src/ThreadYield.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.demo.thread/src/通知交替锁.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/com.demo.thread/src/消费者生产模式队列.java</url>
+          <line>70</line>
+          <properties class="消费者生产模式" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
