@@ -28,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="9" />
@@ -96,7 +97,7 @@
       <workItem from="1584982317821" duration="356000" />
       <workItem from="1586238861338" duration="679000" />
       <workItem from="1586268342007" duration="12293000" />
-      <workItem from="1587054366277" duration="3000" />
+      <workItem from="1587054366277" duration="135000" />
     </task>
     <servers />
   </component>
