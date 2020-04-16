@@ -58,7 +58,7 @@ public class 通知指定的消息处理线程 {
             }
         },"t1").start();
 
-        // 处理业务线程_2——2——2
+        // 处理业务线程_2
         new Thread(()->{
             ThreadTwoMethod threadTwoMethod = new ThreadTwoMethod(lock);
             try {
